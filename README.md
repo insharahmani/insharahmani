@@ -64,13 +64,7 @@
 
 ---
 
-### 🧠 [HR Analytics Dashboard (Power BI)](https://github.com/insharahmani/HR-Analytics)
-🔹 Built HR performance & attrition dashboard.  
-🔹 Visualized turnover trends and employee satisfaction metrics.  
-
----
-
-🎯 [Explore All 18 Projects ➜](https://github.com/insharahmani?tab=repositories)
+🎯 [Explore All Projects ➜](https://github.com/insharahmani?tab=repositories)
 
 ---
 
@@ -79,11 +73,21 @@
 🎓 **B.Tech in Computer Science** – Punjab Technical University (2022–2025)  
 🎓 **Diploma in Plastics & Mould Technology** – CIPET-Chennai (2019–2022)  
 
-🏅 **Certifications:**  
-- PMP Certified (PMI, 2025)  
-- Marketing Analytics (ALISON, 2025)  
-- AI/ML in Geodata Analysis (ISRO, 2024)  
-- NASA International Hackathon (Astroverse, 2024)  
+## 🏅 Badges & Certifications  
+
+🎓 **Google Cloud & Developer Badges**  
+[![Google Cloud Innovator](https://img.shields.io/badge/Google%20Cloud%20Innovator-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://developers.google.com/profile/badges/community/innovators/cloud/2021_member)
+[![Google Data Analytics](https://img.shields.io/badge/Google%20Data%20Analytics-34A853?style=for-the-badge&logo=google&logoColor=white)](https://www.credly.com/org/google/badge/google-data-analytics)
+[![Google Cloud Skill Boost](https://img.shields.io/badge/Google%20Cloud%20Skill%20Boost-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloudskillsboost.google)
+[![Google AI Essentials](https://img.shields.io/badge/Google%20AI%20Essentials-0F9D58?style=for-the-badge&logo=google&logoColor=white)](https://www.credly.com/badges)
+
+☁️ **AWS Certifications**  
+[![AWS Certified](https://img.shields.io/badge/AWS%20Data%20Analytics-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/training/)
+
+📊 **Other Certifications**    
+📊 Marketing Analytics — Alison (2025)  
+🛰 AI/ML in Geodata Analysis — ISRO (2024)  
+🚀 NASA International Hackathon (Astroverse) — NASA (2024)
 
 ---
 
