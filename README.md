@@ -88,9 +88,10 @@
 
 ---
 
-### 🏪 [Retail Data Analytics (Python + SQL + Power BI)](https://github.com/insharahmani/Retail-Data-Analytics)
-🔹 Cleaned & processed retail data for sales performance analysis.  
-🔹 Designed Power BI dashboard visualizing revenue & product trends.  
+###  📶 [Telecom Customer Churn Prediction (Python + Scikit-learn + Power BI + SQL + Flask)](https://github.com/insharahmani/Telecom_Customer_Churn_Prediction)
+🔹 Developed an ML-based churn prediction system to identify high-risk telecom customers and improve retention strategies.
+🔹 Performed EDA, feature engineering, and model tuning (Logistic Regression, Random Forest, Gradient Boosting) achieving high accuracy in churn prediction.
+🔹 Created interactive Power BI dashboards to visualize churn trends, customer segments, and feature importance for business insights.
 
 ---
 
